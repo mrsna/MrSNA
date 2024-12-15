@@ -1,4 +1,27 @@
-### Hi there 👋
+## Hi there! 👋
+
+I’m a 19-year-old student from Germany with a passion for homelabs, virtualization, and open-source. I love exploring technologies that make daily life simpler and diving into smaller projects whenever inspiration strikes.
+
+### 💡 About Me:
+- ☕ Currently learning and experimenting with **virtualization** and **containerization**.
+- 🚀 Building small tools and utilities for automation.
+- ❤ Passionate about open-source and sharing ideas.
+
+### 📚 Languages & Tools:
+- **Languages:** Java, Python, Go
+- **Tools:** JetBains Suite, VIM enjoyer
+- **Interests:** Virtualization (e.g., Proxmox, Docker), Homelab setups, Scripting and learning new stuff
+
+### 🔧 Projects:
+I’m not super active on GitHub. When there is time I enjoy:
+- **Automation tools** to simplify repetitive tasks
+- **Homelab experiments** with virtualized environments
+- **Utility scripts** that solve small but impactful problems
+
+### 🌐 Connect with Me:
+Feel free to explore my repositories or reach out if you have similar interests! Im still learning so feedback is always welcome!
+
+
 
 <!--
 **MrSNA/MrSNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
