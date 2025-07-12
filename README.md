@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I’m a 19-year-old student from Germany with a passion for homelabs, virtualization, and open-source. I love exploring technologies that make daily life simpler and diving into smaller projects whenever inspiration strikes.
+I’m a 20-year-old student from Germany with a passion for homelabs, virtualization, and open-source.
 
 ### 💡 About Me:
 - ☕ Currently learning and experimenting with **virtualization** and **containerization**.
@@ -8,9 +8,9 @@ I’m a 19-year-old student from Germany with a passion for homelabs, virtualiza
 - ❤ Passionate about open-source and sharing ideas.
 
 ### 📚 Languages & Tools:
-- **Languages:** Java, Python, Go
+- **Languages:** Java, Python, Go, but honestly more scripting than programming :)
 - **Tools:** JetBains Suite, VIM enjoyer
-- **Interests:** Virtualization (e.g., Proxmox, Docker), Homelab setups, Scripting and learning new stuff
+- **Interests:** Virtualization (e.g., Proxmox, Docker, Kubernetes), Homelab, Scripting and learning new stuff
 
 ### 🔧 Projects:
 I’m not super active on GitHub. When there is time I enjoy:
