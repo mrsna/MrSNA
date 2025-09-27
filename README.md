@@ -1,7 +1,9 @@
-## Hi there! 👋
+# Hi there 👋
 
-I’m a 20-year-old student from Germany with interest in homelabs, virtualization, and open-source.
+I'm a 20-year-old Computer Science student from Germany 🇩🇪.  
 
+I'm interested in **homelabs, virtualization, and all things tech**.  
+Sometimes I like to tinker with small projects and share them here.
 
 
 <!--
